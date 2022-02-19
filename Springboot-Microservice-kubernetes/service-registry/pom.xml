@@ -71,7 +71,7 @@
 					</execution>
 				</executions>
 				<configuration>
-					<repository>dailycodebuffer/service-registry</repository>
+					<repository>manjeetyadav19/service-registry</repository>
 					<tag>${project.version}</tag>
 					<useMavenSettingsForAuth>true</useMavenSettingsForAuth>
 				</configuration>

@@ -90,7 +90,7 @@
 					</execution>
 				</executions>
 				<configuration>
-					<repository>dailycodebuffer/cloud-gateway</repository>
+					<repository>manjeetyadav19/cloud-gateway</repository>
 					<tag>${project.version}</tag>
 					<useMavenSettingsForAuth>true</useMavenSettingsForAuth>
 				</configuration>
